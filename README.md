@@ -5,7 +5,7 @@ This primarily intends to cover a range of software and computing specification 
 
 ## Overview
 
-Assertion #1: Humans have a limited capacity to differentiate based on size, discrete position, color, numeracy, etc. Diagrams should be limited in the number of shapes, shape types, shape sizes, shape and line colors, etc..
+Assertion #1: Humans have a limited capacity to differentiate based on size, discrete position, color, numeracy, etc. Diagrams should be limited in the number of shapes, shape types, shape sizes, shape and line colors, etc.. (bounded by Golden Ratio steps?)
 
 Assertion #2: Diagrams in specifications tend to convey the following _diagram attributes_:
 
