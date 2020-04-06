@@ -19,4 +19,6 @@ Assertion #2: Diagrams in specifications tend to convey the following _diagram a
 
 An approach to layout is to start with a semantic graph (RDF, datoms, etc.) and apply analysis and heuristics to lay out diagrams. Relations and attributes in the semantic graph need to be mapped to one of the _diagram attributes_ above. Additional layout hints can be provided, though it is not intended that these hints would typically be about the resultant spatial layout, rather adding additional local semantics or logical groupings to assist laying out the diagram (often providing focus, or emphasis).
 
+A diagram, once layed out, may serve as a reference diagram for other, more complicated diagrams which preserve the general layout of the first but augment it with additional information. In this way, a family of diagrams can share the same general layout and are more easily approached by readers.
+
 It is expected that not all elements in the graph will be displayed but that some of the elements in the semantic graph will be invisible groupings or associations used in the layout.
