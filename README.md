@@ -10,10 +10,12 @@ Assertion #1: Humans have a limited capacity to differentiate based on size, dis
 Assertion #2: Diagrams in specifications tend to convey the following _diagram attributes_:
 
 * Importance: (typically via size, sometimes via position)
-* Order (causality/dependence/sequence/flow/etc.): Typically shown by relative position (left-to-right, top-to-bottom, topleft-to-bottomright,etc.) and sometimes by arrows, connected with lines
+* Order (causality/dependence/heirarchy/sequence/flow/etc.): Typically shown by relative position (left-to-right, top-to-bottom, topleft-to-bottomright,etc.) and sometimes by arrows, connected with lines (linear, DAG, cyclic)
 * Boundary (containment/nesting/just-inside/crossing/just-outside/etc): Shown by postion of one shape inside or outside another
-* Proximity (things that are closely associated / have natural physical position nearby): Shapes have some form of physical proximity
+* Proximity (things that are closely associated / have natural physical position nearby / layering): Shapes have some form of physical proximity
 * Similarity grouping (not sure if this is a case of proximity... i.e. semantic proximity)
+
+Semantic details have both visible and invisible representations in the diagrams.
 
 ## Approach
 
