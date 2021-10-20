@@ -15,7 +15,7 @@ Assertion #2: Diagrams in specifications tend to convey the following _diagram a
 * Proximity (things that are closely associated / have natural physical position nearby / layering): Shapes have some form of physical proximity
 * Similarity grouping (not sure if this is a case of proximity... i.e. semantic proximity)
 * Parallelisim (showing similarity through structural juxtaposition, overlay or other notations)
-* Opposition / complements (Showing local/remote, reciever/transmitter, etc. by laying items across from each other to emphasize contrast)
+* Opposition / complement / contrast (Showing local/remote, reciever/transmitter, etc. by laying items across from each other to emphasize contrast)
 
 Semantic details have both visible and invisible representations in the diagrams.
 
