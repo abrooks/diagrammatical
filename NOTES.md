@@ -4,3 +4,5 @@ Links:
 - https://en.wikipedia.org/wiki/Layered_graph_drawing
 - [yFiles (commercial examples)](https://docs.yworks.com/yfilesjava/doc/api/#/dguide/hierarchical_layout?mode=namespaces#top)
 - [GraphML format](http://graphml.graphdrawing.org/)
+- [WebCola](https://ialab.it.monash.edu/webcola/)
+- [Dali](https://github.com/stathissideris/dali) Clojure based library for programmatic SVG layout
