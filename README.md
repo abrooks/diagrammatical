@@ -26,3 +26,5 @@ An approach to layout is to start with a semantic graph (RDF, datoms, etc.) and 
 A diagram, once layed out, may serve as a reference diagram for other, more complicated diagrams which preserve the general layout of the first but augment it with additional information. In this way, a family of diagrams can share the same general layout and are more easily approached by readers.
 
 It is expected that not all elements in the graph will be displayed but that some of the elements in the semantic graph will be invisible groupings or associations used in the layout.
+
+An additional benefit of this approach is alternate renderings (including textual) for accessibility.
